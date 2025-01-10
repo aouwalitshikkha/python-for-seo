@@ -93,7 +93,7 @@ If you have ideas, find bugs, or need help with an SEO-related Python script, fe
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](licence.txt) file for more details.
+This repository is licensed under the MIT License. See the License file for more details.
 
 ---
 
