@@ -32,7 +32,7 @@ Click the **Fork** button on the top-right corner of this repository to create a
 Clone your forked repository to your local machine using the command:
 
 ```bash
-git clone https://github.com/yourusername/python-for-seo.git
+git clone https://github.com/aouwalitshikkha/python-for-seo.git
 ```
 
 Replace `yourusername` with your GitHub username.
@@ -83,7 +83,7 @@ Go to the original repository and click on the **Pull Requests** tab. Click **Ne
 
 ## Issues
 
-If you have ideas, find bugs, or need help with an SEO-related Python script, feel free to open an issue [here](https://github.com/yourusername/python-for-seo/issues). This helps us grow the repository and address real-world SEO challenges.
+If you have ideas, find bugs, or need help with an SEO-related Python script, feel free to open an issue [here](https://github.com/aouwalitshikkha/python-for-seo/issues). This helps us grow the repository and address real-world SEO challenges.
 
 ## Roadmap
 
